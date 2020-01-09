@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Conlang Documentation
+description: A detailed documentation of language spoken by Canis
+baseurl: /conlang/
+plugins:
+  - jekyll-seo-tag
