@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: Conlang Documentation
 description: A detailed documentation of language spoken by Canis
+kramdown:
+    auto_ids: true
 baseurl: /conlang/
 plugins:
   - jekyll-seo-tag
