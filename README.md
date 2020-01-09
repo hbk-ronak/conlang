@@ -1,4 +1,8 @@
-# Sounds
+# Canis Conlang
+
+A detailed documentation written for reference of non native speakers and linguists. In this we'll look at various aspects of the language
+
+## Sounds
 
 ### Consonants
 
@@ -17,9 +21,9 @@
 |Low-Mid   |ɛ   |   |   |
 |low   |æ   |   |   |
 
-# Syllables
+## Syllables
 
-### Building Syllables
+### Categories and Basics
 
 Here we analyse how the syllables are formed and give simple examples for the same.
 
@@ -32,3 +36,45 @@ The vowels are unified into a single category, with addition of `s` and `z` soun
 
 1.i e ɛ æ S Z
 
+### Building Syllables
+
+The Canis language builds the syllables according to the following rules:
+
+* (CV)
+* (FV)
+* (hV) here `h` is the glottal sound
+* (CVθ) here `θ` is the Dental Frictive sound
+
+No syllable rules takes precedence over the other in its appearance in a given word. Additionally a word cannot end with `æ`. If the word has `æ` as it's last vowel then extra `z` sound is added to the end
+
+## Basic Syntax Typology
+
+The Canis Language follows a strict word order of SOV which remains constant throughout. Although it is not uncommon for a sentence to miss either kind of words.
+
+### Determiners
+
+Here we discuss about the determiners and where they appear in a standard Canis sentence.
+
+Determiners are special words that gives a noun definition and quantifies it. Canis is a very strict language where quantification is important to avoid confusion.
+
+**Count Determiners**: These determiners come after a noun(either subject or an object)
+
+1. One - niθɛ
+2. Two -  biθɛ
+3. Three -  hiθɛ
+4. Some -  θiθɛ
+5. All - viθɛ
+
+**Point Determiners**: These determiners come before a noun(either a subject or an object)
+
+1. These - θæz 
+2. That - θisi
+3. The - θi (this almost always comes with the determiner `viθɛ`)
+
+**Sample Phrases**
+
+```
+1. bɛθəz hiθɛ - Three Birds
+2. bɛθəz θiθɛ - Some Birds
+3. θi bɛθəz viθɛ - All the Birds
+```
