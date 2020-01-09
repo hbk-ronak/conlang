@@ -1,9 +1,9 @@
 # Canis Conlang
 
 A detailed documentation written for reference of non native speakers and linguists. In this we'll look at various aspects of the language
-1. [Sounds](##Sounds)
-2. [Syllables](##Syllables)
-3. [Basic Syntax Typology](##Basic Syntax Typology)
+1. [Sounds](##sounds)
+2. [Syllables](##syllables)
+3. [Basic Syntax Typology](##basic-syntax-typology)
 
 ## Sounds
 
