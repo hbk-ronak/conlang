@@ -24,6 +24,11 @@ A detailed documentation written for reference of non native speakers and lingui
 |Low-Mid   |ɛ   |   |   |
 |low   |æ   |   |   |
 
+**Some Sample words**
+```
+1. hæz (n): A dog
+2. sɛhæz (n): Midday Meal or commonly called lunch
+```
 ## Syllables
 
 ### Categories and Basics
@@ -80,4 +85,18 @@ Determiners are special words that gives a noun definition and quantifies it. Ca
 1. bɛθəz hiθɛ - Three Birds
 2. bɛθəz θiθɛ - Some Birds
 3. θi bɛθəz viθɛ - All the Birds
+```
+
+### Adverbs and Adjectives
+
+These special words add quality to a subject, object(Adjective) or a verb(Adverb). In a sentence they generally come before the base word(Subject, Object or verb)
+
+**Sample Phrases**
+```
+1. pɛθi.ADV pife.VB
+  Literal Translation: remains rest
+  Logical Translation: remains at rest
+2. pipæz.ADJ ðəsviθɛ.VB
+  Literal Translation: Constant Velocity
+  Logical Translation: Constant Velocity
 ```
